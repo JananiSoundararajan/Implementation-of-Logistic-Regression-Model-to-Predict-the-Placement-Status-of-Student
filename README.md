@@ -1,13 +1,13 @@
-# EXP-4 Implementation of Logistic Regression Model to Predict the Placement Status of Student
+# Implementation of Logistic Regression Model to Predict the Placement Status of Student
 
-## AIM:
+## Aim:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
 1. Get the data and use label encoder to change all the values to numeric.
 2. Drop the unwanted values,Check for NULL values, Duplicate values.
 3. Classify the training data and the test data.
@@ -17,7 +17,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Janani.S
-RegisterNumber:  212222230049
+RegisterNumber: 212222230049
 ```
 
 ```python
@@ -92,3 +92,15 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ![Screenshot 2024-03-22 104603](https://github.com/Jenishajustin/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405070/8c07787b-5f93-4d01-b982-866ecce597b9)
+
+
+![Screenshot 2024-03-22 104646](https://github.com/Jenishajustin/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405070/676b7c68-d539-4063-b453-62a71a5ebe78)
+
+
+![Screenshot 2024-03-22 105013](https://github.com/Jenishajustin/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405070/2f76995d-71c2-45a7-aa5f-7e3e5d49074d)
+
+#### Classification Report
+![Screenshot 2024-03-22 105104](https://github.com/Jenishajustin/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119405070/6a471ef9-2451-4a4a-8d6c-854e6dd66c89)
+
+## Result:
+Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
